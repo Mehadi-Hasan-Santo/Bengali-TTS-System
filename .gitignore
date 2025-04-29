@@ -1,0 +1,11 @@
+resources
+*.wav
+*.txt
+checkpts
+out
+pycache
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.joblib
